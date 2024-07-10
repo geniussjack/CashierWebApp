@@ -1,0 +1,50 @@
+
+
+
+2017-5-10, 19:12:26
+Devmger Version 1.00
+install hwid:USB\VID_1234&PID* inf:data0\posvcom.inf
+1 matching device(s) found.
+    Name: s300
+    No driver nodes found for this device.
+1 matching device(s) found.
+USB\VID_1234&PID_0101\6&48432AC&0&3                         : Removed
+1 device(s) were removed.
+Driver package 'oem66.inf' added.
+Scanning for new hardware.
+Scanning completed.
+
+
+
+2017-5-10, 19:12:32
+Devmger Version 1.00
+install hwid:USB\VID_3890&PID* inf:data1\posusb.inf
+No matching devices found.
+No matching devices found.
+No devices were removed.
+Driver package 'oem67.inf' added.
+
+
+
+2018-9-3, 12:54:17
+Devmger Version 1.00
+install hwid:USB\VID_1234&PID* inf:data0\posvcom.inf
+1 matching device(s) found.
+    Name: s900
+    No driver nodes found for this device.
+1 matching device(s) found.
+USB\VID_1234&PID_0101\5&E440D12&0&1                         : Removed
+1 device(s) were removed.
+Driver package 'oem25.inf' added.
+Scanning for new hardware.
+Scanning completed.
+
+
+
+2018-9-3, 12:54:19
+Devmger Version 1.00
+install hwid:USB\VID_3890&PID* inf:data1\posusb.inf
+No matching devices found.
+No matching devices found.
+No devices were removed.
+Driver package 'oem26.inf' added.

@@ -1,0 +1,1 @@
+regsvr32.exe sbrfcom.dll sbrf.dll card.dll
